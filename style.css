@@ -1,0 +1,15 @@
+.page-wrap {
+  width: 300px;
+  margin: 0 auto;
+}
+.day-theme{
+  background-color: white;
+}
+.night-theme{
+  background-color: black;
+  color: white;
+}
+
+#body-id{
+  text-align: center;
+}
